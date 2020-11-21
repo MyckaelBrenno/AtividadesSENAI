@@ -1,0 +1,32 @@
+.primeiro5times {
+    background: blue;
+    border: 10px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    background: black;
+}
+.cabecario{
+    background: red;
+}
+.cabecarioSeries{
+    background: black;
+}
+.c1{
+    color: red;
+}
+.c2{
+    color: aliceblue;
+}
+.c3{
+    color: gray;
+}
+.cabecarioTuristicos{
+    background: orangered;
+}
+.StarTrek{
+    background: gold;
+}
+.cabecarioProjeto{
+    background: black;
+}
